@@ -122,8 +122,7 @@ Customer-Behavior-Analysis/
 ---
 
 # Dashboard Preview
-
-
+![Dashboard](Customer-Behavior-Analysis/Power%20bi%20dashboard/Dashboard.png)
 ---
 
 # Skills Demonstrated
